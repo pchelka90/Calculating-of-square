@@ -1,2 +1,2 @@
-# Calculating-of-square
-Program for counting squares
+# Calculating-of-rectangle
+Program for counting surface area of a rectangle
